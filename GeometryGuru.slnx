@@ -2,5 +2,4 @@
   <Project Path="GeometryGuru.Application/GeometryGuru.Application.csproj" />
   <Project Path="GeometryGuru.Client/GeometryGuru.Client.csproj" />
   <Project Path="GeometryGuru.Domain/GeometryGuru.Domain.csproj" />
-  <Project Path="GeometryGuru.Infrastructure/GeometryGuru.Infrastructure.csproj" />
 </Solution>
