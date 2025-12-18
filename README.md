@@ -24,7 +24,6 @@ Quyidagi GIF’da dastur qanday ishlashi ko‘rsatilgan:
 
 🧱 Clean Architecture (Layered structure)
 
-🧠 OOP va Polymorphism
 ---
 
 🗂 Loyiha tuzilmasi
