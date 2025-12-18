@@ -65,7 +65,7 @@ Bo'yini kiriting: 20
 
 Yuzi: 600.00
 🧠 Kod haqida qisqacha
-🔹 Domain Layer
+**🔹 Domain Layer**
 
 Shape — abstract class
 
@@ -73,19 +73,19 @@ Circle, Rectangle, Triangle — Shape dan meros oladi
 
 Har bir shakl CalculateArea() metodini override qiladi
 
-🔹 Application Layer
+**🔹 Application Layer**
 
 ShapeService — hisoblashni boshqaradi
 
 Business logic shu yerda joylashgan
 
-🔹 Client Layer
+**🔹 Client Layer**
 
 Program.cs — menyu, input, output
 
 Foydalanuvchi bilan aloqa
 
-👤 Muallif
+**👤 Muallif**
 
 Ism: Asrorbek
 
